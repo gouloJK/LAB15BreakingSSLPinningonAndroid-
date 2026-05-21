@@ -3,10 +3,7 @@
 
 ---
 
-**Author:** Omayma El Yamani  
-**Date:** 20 May 2026  
-**Course:** Mobile App Security – MLIAEdu  
-
+> Omayma El Yamani  
 ---
 
 ##  Mission Objectives
@@ -31,7 +28,7 @@
 
 ---
 
-## Step 1 – The Battlefield
+## Step 1 
 
 <img width="666" height="479" alt="image" src="https://github.com/user-attachments/assets/16ca9a7d-c725-4ee2-88f8-c89659414222" />
 
@@ -39,7 +36,7 @@ The learning platform interface showing all 12 steps of SSL pinning bypass metho
 
 ---
 
-##  Step 2 – Frida Arsenal Verification
+##  Step 2 – Frida Verification
 
 <img width="537" height="85" alt="image" src="https://github.com/user-attachments/assets/945075e1-0033-4907-b89a-0440757837b7" />
 
